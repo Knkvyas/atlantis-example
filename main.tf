@@ -5,5 +5,5 @@ resource "null_resource" "hello_world" {
 }
 
 output "hello_world_message" {
-  value = "Hello world"
+  value = "Hello world2"
 }
